@@ -1,2 +1,9 @@
 # Pandas_Practice_Questions
-I am practicing the Pandas library to improve my skills and build confidence. I strongly believe that solving problems is crucial for developing a solid foundation in Pandas and becoming proficient in data analysis.
+I am practicing the Pandas library to improve my skills and build confidence.
+---
+
+### 1️⃣ Employees from IT Department (Pandas)
+- **File:** `employees_from_it_department.py`
+- **Problem:** Show only employees belonging to the IT department.
+- **Concepts:** DataFrame filtering, Boolean indexing
+---
