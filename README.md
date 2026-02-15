@@ -29,6 +29,13 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 ---
 
+### 4️⃣ Count Missing Values in Each Column (Pandas)
+- **File:** `check_missing_values.py`
+- **Problem:** Find the total number of missing (NULL) values in each column.
+- **Concepts:** isnull(), sum(), handling missing data
+
+
+---
 
 
 
