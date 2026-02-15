@@ -21,3 +21,24 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** Multiple conditions, Boolean indexing, AND operator
 
 ---
+
+### 3️⃣ Sort Employees by Salary and Experience (Pandas)
+- **File:** `sort_employees_by_salary_experience.py`
+- **Problem:** Sort employees by salary in descending order and experience in ascending order.
+- **Concepts:** sort_values, multiple columns, ascending/descending order
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
