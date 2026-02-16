@@ -37,6 +37,12 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 ---
 
+### 5️⃣ Fill Missing Sales Values with Average (Pandas)
+- **File:** `fill_missing_sales_with_average.py`
+- **Problem:** Replace missing (NaN) values in the sales column with the average sales value.
+- **Concepts:** mean(), fillna(), handling missing data
+
+---
 
 
 
