@@ -54,6 +54,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 ---
 
+### 7️⃣ Department with Highest Average Sales (Pandas)
+- **File:** `department_with_highest_average_sales.py`
+- **Problem:** Find the department that has the highest average sales.
+- **Concepts:** groupby(), mean(), max(), idxmax()
 
 
 
