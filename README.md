@@ -46,7 +46,13 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 
 
+### 6️⃣ Total Sales by Department (Pandas)
+- **File:** `total_sales_by_department.py`
+- **Problem:** Calculate total sales for each department.
+- **Concepts:** groupby(), agg(), sum(), aggregation
 
+
+---
 
 
 
