@@ -60,7 +60,16 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** groupby(), mean(), max(), idxmax()
 
 
+---
 
+
+### 8️⃣ Merge Employees with Bonus Data (Pandas)
+- **File:** `merge_bonus_with_employees.py`
+- **Problem:** Merge employee data with bonus percentage based on department, keeping all employees.
+- **Concepts:** merge(), left join, joining DataFrames
+
+
+---
 
 
 
