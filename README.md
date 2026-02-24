@@ -71,6 +71,9 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 ---
 
+### 9️⃣ Top 3 Employees with Highest Bonus (Pandas)
+- **File:** `top3_employees_highest_bonus.py`
+- **Problem:** Find the top 3 employees having the highest bonus amount.
+- **Concepts:** merge(), new column creation, arithmetic operations, sort_values(), head()
 
-
-
+---
