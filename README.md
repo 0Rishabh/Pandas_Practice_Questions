@@ -68,8 +68,8 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Problem:** Merge employee data with bonus percentage based on department, keeping all employees.
 - **Concepts:** merge(), left join, joining DataFrames
 
-
 ---
+
 
 ### 9️⃣ Top 3 Employees with Highest Bonus (Pandas)
 - **File:** `top3_employees_highest_bonus.py`
@@ -77,3 +77,11 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** merge(), new column creation, arithmetic operations, sort_values(), head()
 
 ---
+
+### 🔟 High Value Customers (Pandas)
+- **File:** `high_value_customers.py`
+- **Problem:** Find customers who placed more than 2 orders and have total sales greater than 50000.
+- **Concepts:** groupby(), agg(), filtering, multiple conditions, sorting
+
+---
+
