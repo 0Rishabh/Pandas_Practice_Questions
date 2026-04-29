@@ -85,3 +85,9 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 ---
 
+### 1️⃣1️⃣ Average Salary with Conditions (Pandas)
+- **File:** `avg_salary_filtered_by_exp_salary.py`
+- **Problem:** Find the average salary of each department for employees with salary > 50000 and experience >= 4, sorted by avg_salary descending.
+- **Concepts:** filtering, multiple conditions, groupby(), mean(), sorting
+
+---
