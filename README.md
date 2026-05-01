@@ -101,5 +101,23 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 ---
 
+### 1️⃣3️⃣ Employees Above Average Salary by City (Pandas)
+- **File:** `employees_above_avg_salary_by_city.py`
+- **Problem:** Count employees in each city whose salary is greater than the overall average salary.
+- **Concepts:** mean(), filtering, groupby(), count(), aggregation
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
