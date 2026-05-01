@@ -91,3 +91,15 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** filtering, multiple conditions, groupby(), mean(), sorting
 
 ---
+
+
+### 1️⃣2️⃣ High Spending Delhi Customers (Pandas)
+- **File:** `high_spending_delhi_customers.py`
+- **Problem:** Find customers from Delhi whose total spending is greater than 10000, sorted by total spending.
+- **Concepts:** merge(), filtering, groupby(), aggregation, sorting
+
+
+---
+
+
+
