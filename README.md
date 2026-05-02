@@ -107,9 +107,11 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** mean(), filtering, groupby(), count(), aggregation
 
 ---
-
-
-
+### 1️⃣4️⃣ City-wise Sales Summary (Pandas)
+- **File:** `city_wise_sales_summary.py`
+- **Problem:** For each city, find total amount, average amount, and count of completed orders.
+- **Concepts:** groupby(), agg(), lambda function, conditional aggregation
+---
 
 
 
