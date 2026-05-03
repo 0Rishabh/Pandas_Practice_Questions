@@ -115,9 +115,12 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 
 
+### 1️⃣5️⃣ Top 2 Employees per Department (Pandas)
+- **File:** `top2_employees_per_department.py`
+- **Problem:** Rank employees by salary within each department and return top 2 highest paid employees.
+- **Concepts:** groupby(), rank(), dense ranking, filtering, sorting
 
-
-
+---
 
 
 
