@@ -123,6 +123,9 @@ I am practicing the Pandas library to improve my skills and build confidence.
 ---
 
 
+### 1️⃣6️⃣ Running Total Filter (Pandas)
+- **File:** `running_total_filter.py`
+- **Problem:** Calculate running total per customer and return rows where running total exceeds 4000.
+- **Concepts:** sort_values(), groupby(), cumsum(), method chaining, filtering
 
-
-
+---
