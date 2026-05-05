@@ -129,3 +129,8 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** sort_values(), groupby(), cumsum(), method chaining, filtering
 
 ---
+
+### 1️⃣7️⃣ Rolling Average Sales Filter (Pandas)
+- **File:** `rolling_average_sales.py`
+- **Problem:** Calculate 3-day rolling average of sales and return rows where rolling average is greater than 300.
+- **Concepts:** rolling(), mean(), time series, filtering
