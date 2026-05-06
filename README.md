@@ -134,3 +134,13 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **File:** `rolling_average_sales.py`
 - **Problem:** Calculate 3-day rolling average of sales and return rows where rolling average is greater than 300.
 - **Concepts:** rolling(), mean(), time series, filtering
+
+
+---
+
+### 1️⃣8️⃣ Order Gap Analysis (Pandas)
+- **File:** `order_gap_analysis.py`
+- **Problem:** Calculate days difference between consecutive orders and return cases where gap is greater than 3 days.
+- **Concepts:** merge(), sort_values(), groupby(), diff(), datetime operations
+
+---
