@@ -144,3 +144,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** merge(), sort_values(), groupby(), diff(), datetime operations
 
 ---
+
+### 1️⃣9️⃣ Most Frequently Purchased Product per Customer (Pandas)
+- **File:** `most_frequent_product_per_customer.py`
+- **Problem:** Find the most frequently purchased product for each customer. If tie happens, choose product with higher total amount.
+- **Concepts:** groupby(), aggregation, sorting, tie handling
+
+---
