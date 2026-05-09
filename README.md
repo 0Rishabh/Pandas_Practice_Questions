@@ -151,3 +151,9 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** groupby(), aggregation, sorting, tie handling
 
 ---
+### 2️⃣0️⃣ Employees Above Department Average Salary (Pandas)
+- **File:** `employees_above_department_avg_salary.py`
+- **Problem:** Find employees whose salary is greater than their department average salary.
+- **Concepts:** groupby(), transform(), filtering, sorting
+
+---
