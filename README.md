@@ -157,3 +157,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** groupby(), transform(), filtering, sorting
 
 ---
+
+### 2️⃣1️⃣ Students Above Average Marks Threshold (Pandas)
+- **File:** `students_above_average_marks.py`
+- **Problem:** Find students whose average marks are greater than 70.
+- **Concepts:** groupby(), aggregation, mean(), query()
+
+---
