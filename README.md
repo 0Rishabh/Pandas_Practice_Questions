@@ -171,9 +171,12 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** merge(), new column creation, groupby(), aggregation, sorting
 
 ---
+### 2️⃣3️⃣ Customer Order Growth Analysis (Pandas)
+- **File:** `customer_order_growth_analysis.py`
+- **Problem:** Calculate previous order amount and percentage growth for each customer.
+- **Concepts:** sort_values(), groupby(), shift(), percentage calculation
 
-
-
+---
 
 
 
