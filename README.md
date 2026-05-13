@@ -178,7 +178,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 ---
 
-
+### 2️⃣4️⃣ Second Highest Salary by Department (Pandas)
+- **File:** `second_highest_salary_by_department.py`
+- **Problem:** Find the employee having the 2nd highest salary in each department.
+- **Concepts:** groupby(), rank(), dense ranking, filtering
 
 
 
