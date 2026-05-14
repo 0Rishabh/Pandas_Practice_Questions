@@ -25,6 +25,6 @@ df = pd.DataFrame(data)
 
 
 # Solution 
-df['pre_month_sales'] = df['sales'].shift(1)
+df['previous_month_sales'] = df.groupby('product')['sales'].shift(1)
 
 print(df)
