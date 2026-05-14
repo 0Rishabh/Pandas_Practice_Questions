@@ -184,6 +184,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** groupby(), rank(), dense ranking, filtering
 
 
+---
+### 2️⃣5️⃣ Previous Month Sales (Pandas)
+- **File:** `previous_month_sales.py`
+- **Problem:** Create a previous month sales column using shift().
+- **Concepts:** shift(), new column creation
 
-
-
+---
