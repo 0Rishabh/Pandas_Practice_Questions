@@ -191,3 +191,9 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** shift(), new column creation
 
 ---
+### 2️⃣6️⃣ Store Sales Decrease Analysis (Pandas)
+- **File:** `store_sales_decrease_analysis.py`
+- **Problem:** Calculate month-over-month sales difference and find stores where sales decreased.
+- **Concepts:** groupby(), diff(), filtering, time-based analysis
+
+---
