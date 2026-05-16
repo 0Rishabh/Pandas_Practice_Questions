@@ -197,3 +197,9 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** groupby(), diff(), filtering, time-based analysis
 
 ---
+### 2️⃣7️⃣ Find Duplicate Transactions (Pandas)
+- **File:** `find_duplicate_transactions.py`
+- **Problem:** Find duplicate transactions based on same customer_id and amount.
+- **Concepts:** duplicated(), filtering, duplicate detection
+
+---
