@@ -203,3 +203,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** duplicated(), filtering, duplicate detection
 
 ---
+
+### 2️⃣8️⃣ Customers Without Orders (Pandas)
+- **File:** `customers_without_orders.py`
+- **Problem:** Find customers who never placed any order.
+- **Concepts:** merge(), left join, isna(), filtering
+
+---
