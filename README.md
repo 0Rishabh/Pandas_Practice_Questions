@@ -210,3 +210,9 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** merge(), left join, isna(), filtering
 
 ---
+
+### 2️⃣9️⃣ Highest Performance Employee by Department (Pandas)
+- **File:** `highest_performance_employee_by_department.py`
+- **Problem:** Find the employee with the highest performance score in each department.
+- **Concepts:** groupby(), rank(), ranking, filtering
+---
