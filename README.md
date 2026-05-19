@@ -216,3 +216,9 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Problem:** Find the employee with the highest performance score in each department.
 - **Concepts:** groupby(), rank(), ranking, filtering
 ---
+### 3️⃣0️⃣ Region Product Sales Pivot Table (Pandas)
+- **File:** `region_product_sales_pivot.py`
+- **Problem:** Create a pivot table with region as rows, product as columns, and total sales as values.
+- **Concepts:** groupby(), sum(), unstack(), pivot_table()
+
+---
