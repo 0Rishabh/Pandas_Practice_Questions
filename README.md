@@ -222,3 +222,11 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** groupby(), sum(), unstack(), pivot_table()
 
 ---
+
+### 3️⃣1️⃣ Latest Order per Customer (Pandas)
+- **File:** `latest_order_per_customer.py`
+- **Problem:** Find the latest order for each customer.
+- **Concepts:** to_datetime(), sort_values(), groupby(), tail()
+
+
+---
