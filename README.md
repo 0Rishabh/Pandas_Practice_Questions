@@ -230,3 +230,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 
 ---
+
+### 3️⃣2️⃣ Products Without Sales (Pandas)
+- **File:** `products_without_sales.py`
+- **Problem:** Find products that never appeared in the sales table.
+- **Concepts:** merge(), left join, isna(), filtering
+
+---
