@@ -237,3 +237,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** merge(), left join, isna(), filtering
 
 ---
+
+### 3️⃣3️⃣ Wide to Long Format Conversion (Pandas)
+- **File:** `wide_to_long_format_conversion.py`
+- **Problem:** Convert wide-format data into long-format using Pandas.
+- **Concepts:** melt(), reshaping data, wide-to-long transformation
+
+---
