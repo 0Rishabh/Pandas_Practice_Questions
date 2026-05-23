@@ -244,3 +244,11 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** melt(), reshaping data, wide-to-long transformation
 
 ---
+
+### 3️⃣4️⃣ Highest Salary Employee by Department (Pandas)
+- **File:** `highest_salary_employee_by_department.py`
+- **Problem:** Find the employee having maximum salary in each department.
+- **Concepts:** groupby(), idxmax(), row selection
+
+
+---
