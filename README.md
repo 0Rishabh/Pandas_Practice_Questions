@@ -252,3 +252,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 
 
 ---
+
+### 3️⃣5️⃣ Customer Spending by Category (Pandas)
+- **File:** `customer_spending_by_category.py`
+- **Problem:** Find customers spending more than 5000 in Electronics and more than 2000 in Clothing.
+- **Concepts:** groupby(), sum(), unstack(), conditional filtering
+
+---
