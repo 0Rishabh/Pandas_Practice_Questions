@@ -259,3 +259,7 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **Concepts:** groupby(), sum(), unstack(), conditional filtering
 
 ---
+### 3️⃣6️⃣ 3-Day Rolling Average (Pandas)
+- **File:** `rolling_average_3days.py`
+- **Problem:** Create a rolling_avg_3days column using current row and previous 2 rows average.
+- **Concepts:** rolling(), mean(), rolling window calculations
