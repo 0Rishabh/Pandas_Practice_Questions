@@ -263,3 +263,10 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **File:** `rolling_average_3days.py`
 - **Problem:** Create a rolling_avg_3days column using current row and previous 2 rows average.
 - **Concepts:** rolling(), mean(), rolling window calculations
+
+---
+
+### 3️⃣7️⃣ Cumulative Revenue (Pandas)
+- **File:** `cumulative_revenue.py`
+- **Problem:** Create a cumulative_revenue column using cumulative sum.
+- **Concepts:** cumsum(), cumulative calculations
