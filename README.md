@@ -270,3 +270,12 @@ I am practicing the Pandas library to improve my skills and build confidence.
 - **File:** `cumulative_revenue.py`
 - **Problem:** Create a cumulative_revenue column using cumulative sum.
 - **Concepts:** cumsum(), cumulative calculations
+
+---
+
+### 3️⃣8️⃣ Expense Percentage Calculation (Pandas)
+- **File:** `expense_percentage.py`
+- **Problem:** Create an expense_percent column showing each department's expense percentage contribution.
+- **Concepts:** sum(), arithmetic operations, percentage calculation
+
+---
